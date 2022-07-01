@@ -1,11 +1,16 @@
 Story Time
 
+<<<<<<< HEAD
 The Muffin Man was always hungry, but no matter what he tried, the only thing  that could fill him
+=======
+The Muffin Man was always hungry, but no matter what he tried, the only thing that could fill him
+>>>>>>> a6b026799fea7021b31d09f7460d118ac1907c3d
 was muffins.
 Things were so bad that no one even bothered to learn or remember his true name, which was
 eventually lost to the choir of death ears which surrounded the man.
 When he became old and decrepit, the Muffin Man just called himself The Muffin Man out of
 sheer laziness.
+<<<<<<< HEAD
 Years and years of eating muffins left him as nothing more than a hollow shell of a man.
 Disappointed with life, the Muffin Man decided now is the time to die.
 So, he hopped aboard the coffin train (still covered in muffins, of course) and had himself carried
@@ -17,3 +22,5 @@ Muffin Man."
 But before the Muffin Man could take a bite, his ghost-self spoke out again.
 "Wait, if I eat this muffin, will I be alive again?"
 "Ah yes, that is a good question, Muffin Man. What do you mean by alive?"
+=======
+>>>>>>> a6b026799fea7021b31d09f7460d118ac1907c3d
